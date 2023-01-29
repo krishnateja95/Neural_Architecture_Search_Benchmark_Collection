@@ -1,5 +1,6 @@
 # Neural_Architecture_Search_Benchmark_Collection
 
+We present a collection of several Neural Architecture Search Benchmarks in this repository. Please feel free to pull requests or open an issue to add papers.
 
 ## NAS Benchmarks for CNNs
 
