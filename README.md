@@ -30,9 +30,9 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| NAS-Bench-NLP | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-ASR | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-Graph | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
+| NAS-Bench-NLP | [Paper]() |  [URL]() |
+| NAS-Bench-ASR | [Paper]() |  [URL]() |
+| NAS-Bench-Graph | [Paper]() |  [URL]() |
 
 
 
@@ -42,10 +42,10 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| LatBench | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| HW-NAS-Bench | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| BLOX | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| EC-NAS-Bench | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
+| LatBench | [Paper]() |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
+| HW-NAS-Bench | [Paper]() |  [URL]() |
+| BLOX | [Paper]() |  [URL]() |
+| EC-NAS-Bench | [Paper]() |  [URL]() |
 
 
 
