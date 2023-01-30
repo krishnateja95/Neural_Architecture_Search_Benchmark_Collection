@@ -30,9 +30,9 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| NAS-Bench-NLP | [Paper]() |  [URL]() |
-| NAS-Bench-ASR | [Paper]() |  [URL]() |
-| NAS-Bench-Graph | [Paper]() |  [URL]() |
+| NAS-Bench-NLP | [Paper]() |  [URL](https://github.com/fmsnew/nas-bench-nlp-release) |
+| NAS-Bench-ASR | [Paper]() |  [URL](https://github.com/SamsungLabs/nb-asr) |
+| NAS-Bench-Graph | [Paper]() |  [URL](https://github.com/THUMNLab/NAS-Bench-Graph) |
 
 
 
