@@ -7,8 +7,8 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| NAS-Bench-101 | [Paper]() |  [URL](https://github.com/google-research/nasbench) |
-| NAS-Bench-201 | [Paper]() |  [URL](https://github.com/D-X-Y/NAS-Bench-201) |
+| NAS-Bench-101 | [Paper](https://arxiv.org/pdf/1902.09635.pdf) |  [URL](https://github.com/google-research/nasbench) |
+| NAS-Bench-201 | [Paper](https://arxiv.org/pdf/2001.00326.pdf) |  [URL](https://github.com/D-X-Y/NAS-Bench-201) |
 | NATS-Bench | [Paper]() |  [URL](https://github.com/D-X-Y/NATS-Bench) |
 | NAS-Bench-301 | [Paper]() |  [URL](https://github.com/automl/nasbench301) |
 | NAS-Bench-1Shot1 | [Paper]() |  [URL](https://github.com/automl/nasbench-1shot1) |
