@@ -1,6 +1,6 @@
 # A Collection of Neural Architecture Search Benchmarks
 
-We present a collection of several Neural Architecture Search Benchmarks in this repository. Please feel free to open an issue or pull requests to add relevant NAS Benchmark papers in case we missed any NAS Benchmark or any new NAS Benchmark is made public. This repository is maintained [Prof. Arun Somani's](http://class.ece.iastate.edu/arun/) group at Iowa State University.
+We present a collection of several Neural Architecture Search Benchmarks in this repository. Please feel free to open an issue or pull requests to add relevant NAS Benchmark papers in case we missed any NAS Benchmark or any new NAS Benchmark is made public. This repository is maintained by [Prof. Arun Somani's](http://class.ece.iastate.edu/arun/) group at Iowa State University.
 
 ## NAS Benchmarks for Computer Vision Applications (CNNs)
 
