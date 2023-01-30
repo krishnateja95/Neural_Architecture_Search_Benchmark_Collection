@@ -42,10 +42,10 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| LatBench | [Paper]() |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| HW-NAS-Bench | [Paper]() |  [URL]() |
-| BLOX | [Paper]() |  [URL]() |
-| EC-NAS-Bench | [Paper]() |  [URL]() |
+| LatBench | [Paper]() |  [URL](https://github.com/SamsungLabs/eagle) |
+| HW-NAS-Bench | [Paper]() |  [URL](https://github.com/RICE-EIC/HW-NAS-Bench) |
+| BLOX | [Paper]() |  [URL](https://github.com/SamsungLabs/blox) |
+| EC-NAS-Bench | [Paper]() |  [URL](https://github.com/PedramBakh/EC-NAS-Bench) |
 
 
 
@@ -55,9 +55,9 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| NAS-HPO-Bench | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-HPO-Bench-II | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| LCBench | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
+| NAS-HPO-Bench | [Paper]() |  [URL]() |
+| NAS-HPO-Bench-II | [Paper]() |  [URL]() |
+| LCBench | [Paper]() |  [URL]() |
 
 
 
