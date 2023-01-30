@@ -8,8 +8,9 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | NAS-Bench-101 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-
+|:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | NAS-Bench-101 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
+
 
 
 
