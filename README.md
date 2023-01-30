@@ -63,7 +63,7 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 ## Survey Papers
 
-Feel free to go through our previously published following survey papers:
+Feel free to go through our previously published NAS survey papers:
 
 | Survey Title | Paper URL         | PDF                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
