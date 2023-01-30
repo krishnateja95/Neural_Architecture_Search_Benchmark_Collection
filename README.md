@@ -7,19 +7,19 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| NAS-Bench-101 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-201 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NATS-Bench | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-301 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-1Shot1 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-MR | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-Macro | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| TransNAS-Bench-101 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-360 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-x11 | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-Suite | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| NAS-Bench-Suite-Zero | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
-| BenchENAS | [Paper](https://arxiv.org/pdf/2203.02094.pdf) |  [URL](https://arxiv.org/pdf/2203.02094.pdf) |
+| NAS-Bench-101 | [Paper]() |  [URL](https://github.com/google-research/nasbench) |
+| NAS-Bench-201 | [Paper]() |  [URL](https://github.com/D-X-Y/NAS-Bench-201) |
+| NATS-Bench | [Paper]() |  [URL](https://github.com/D-X-Y/NATS-Bench) |
+| NAS-Bench-301 | [Paper]() |  [URL](https://github.com/automl/nasbench301) |
+| NAS-Bench-1Shot1 | [Paper]() |  [URL](https://github.com/automl/nasbench-1shot1) |
+| NAS-Bench-MR | [Paper]() |  [URL](https://github.com/dingmyu/NCP) |
+| NAS-Bench-Macro | [Paper]() |  [URL](https://github.com/xiusu/NAS-Bench-Macro) |
+| TransNAS-Bench-101 | [Paper]() |  [URL](https://github.com/kmdanielduan/TransNASBench) |
+| NAS-Bench-360 | [Paper]() |  [URL](https://github.com/rtu715/NAS-Bench-360) |
+| NAS-Bench-x11 | [Paper]() |  [URL](https://github.com/automl/nas-bench-x11) |
+| NAS-Bench-Suite | [Paper]() |  [URL](https://github.com/automl/NASLib) |
+| NAS-Bench-Suite-Zero | [Paper]() |  [URL](https://github.com/automl/naslib/tree/zerocost) |
+| BenchENAS | [Paper]() |  [URL](https://benchenas.com/) |
 
 
 
