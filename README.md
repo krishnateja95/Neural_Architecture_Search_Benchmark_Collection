@@ -2,7 +2,7 @@
 
 We present a collection of several Neural Architecture Search Benchmarks in this repository. Please feel free to open an issue or pull requests to add relevant NAS Benchmark papers.
 
-## NAS Benchmarks for CNNs
+## NAS Benchmarks for Computer Vision Applications (CNNs)
 
 
 | Benchmark | Paper         | GitHub                  |
