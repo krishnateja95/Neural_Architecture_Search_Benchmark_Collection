@@ -19,7 +19,7 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 | NAS-Bench-x11 | [Paper]() |  [URL](https://github.com/automl/nas-bench-x11) |
 | NAS-Bench-Suite | [Paper](https://arxiv.org/pdf/2201.13396.pdf) |  [URL](https://github.com/automl/NASLib) |
 | NAS-Bench-Suite-Zero | [Paper](https://arxiv.org/pdf/2210.03230.pdf) |  [URL](https://github.com/automl/naslib/tree/zerocost) |
-| BenchENAS | [Paper]() |  [URL](https://benchenas.com/) |
+| BenchENAS | [Paper](https://arxiv.org/pdf/2108.03856.pdf) |  [URL](https://benchenas.com/) |
 
 
 
@@ -32,7 +32,7 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | NAS-Bench-NLP | [Paper](https://arxiv.org/pdf/2006.07116.pdf) |  [URL](https://github.com/fmsnew/nas-bench-nlp-release) |
 | NAS-Bench-ASR | [Paper](https://openreview.net/pdf?id=CU0APx9LMaL) |  [URL](https://github.com/SamsungLabs/nb-asr) |
-| NAS-Bench-Graph | [Paper]() |  [URL](https://github.com/THUMNLab/NAS-Bench-Graph) |
+| NAS-Bench-Graph | [Paper](https://arxiv.org/pdf/2206.09166.pdf) |  [URL](https://github.com/THUMNLab/NAS-Bench-Graph) |
 
 
 
