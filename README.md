@@ -55,9 +55,9 @@ We present a collection of several Neural Architecture Search Benchmarks in this
 
 | Benchmark | Paper         | GitHub                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| NAS-HPO-Bench | [Paper](https://arxiv.org/pdf/1905.04970.pdf) |  [URL]() |
-| NAS-HPO-Bench-II | [Paper](https://arxiv.org/pdf/2110.10165.pdf) |  [URL]() |
-| LCBench | [Paper](https://arxiv.org/pdf/2006.13799.pdf) |  [URL]() |
+| NAS-HPO-Bench | [Paper](https://arxiv.org/pdf/1905.04970.pdf) |  [URL](https://github.com/automl/nas_benchmarks) |
+| NAS-HPO-Bench-II | [Paper](https://arxiv.org/pdf/2110.10165.pdf) |  [URL](https://github.com/yoichii/nashpobench2api) |
+| LCBench | [Paper](https://arxiv.org/pdf/2006.13799.pdf) |  [URL](https://github.com/automl/LCBench) |
 
 
 
