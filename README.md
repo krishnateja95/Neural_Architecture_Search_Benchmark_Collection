@@ -77,7 +77,7 @@ Feel free to go through our previously published NAS survey papers:
 
 # Citation
 
-If you find our papers and the repository useful, please consider citing it:
+If you find our papers and the repository useful, please consider citing the following papers:
 ```
 @article{chitty2022neural,
   title={Neural architecture search survey: A hardware perspective},
