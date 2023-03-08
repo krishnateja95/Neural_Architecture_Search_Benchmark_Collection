@@ -74,3 +74,19 @@ Feel free to go through our previously published NAS survey papers:
 
 
 
+
+# Citation
+
+If you find that NAS-Bench-201 helps your research, please consider citing it:
+```
+@inproceedings{dong2020nasbench201,
+  title     = {NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search},
+  author    = {Dong, Xuanyi and Yang, Yi},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  url       = {https://openreview.net/forum?id=HJxyZkBKDr},
+  year      = {2020}
+}
+```
+
+
+
