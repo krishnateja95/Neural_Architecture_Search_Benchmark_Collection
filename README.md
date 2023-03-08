@@ -67,6 +67,7 @@ Feel free to go through our previously published NAS survey papers:
 
 | Survey Title | Paper URL         | PDF                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| Neural Architecture Search Benchmarks: Insights and Survey | [Paper](https://ieeexplore.ieee.org/document/10063950) |  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10063950) |
 | Neural Architecture Search Survey: A Hardware Perspective | [Paper](https://dl.acm.org/doi/full/10.1145/3524500) |  [PDF](https://dl.acm.org/doi/pdf/10.1145/3524500) |
 | Neural Architecture Search for Transformers: A Survey | [Paper](https://ieeexplore.ieee.org/document/9913476) |  [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9913476) |
 
