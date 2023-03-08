@@ -77,15 +77,30 @@ Feel free to go through our previously published NAS survey papers:
 
 # Citation
 
-If you find that NAS-Bench-201 helps your research, please consider citing it:
+If you find our papers and the repository useful, please consider citing it:
 ```
-@inproceedings{dong2020nasbench201,
-  title     = {NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search},
-  author    = {Dong, Xuanyi and Yang, Yi},
-  booktitle = {International Conference on Learning Representations (ICLR)},
-  url       = {https://openreview.net/forum?id=HJxyZkBKDr},
-  year      = {2020}
+@article{chitty2022neural,
+  title={Neural architecture search survey: A hardware perspective},
+  author={Chitty-Venkata, Krishna Teja and Somani, Arun K},
+  journal={ACM Computing Surveys},
+  volume={55},
+  number={4},
+  pages={1--36},
+  year={2022},
+  publisher={ACM New York, NY}
 }
+
+@article{chitty2022neural,
+  title={Neural architecture search for transformers: A survey},
+  author={Chitty-Venkata, Krishna Teja and Emani, Murali and Vishwanath, Venkatram and Somani, Arun K},
+  journal={IEEE Access},
+  volume={10},
+  pages={108374--108412},
+  year={2022},
+  publisher={IEEE}
+}
+
+
 ```
 
 
