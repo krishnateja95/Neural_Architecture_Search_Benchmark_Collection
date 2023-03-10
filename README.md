@@ -90,7 +90,7 @@ If you find our papers and the repository useful, please consider citing the fol
   publisher={ACM New York, NY}
 }
 
-@article{chitty2022neural,
+@article{chitty2022neural_transformers,
   title={Neural architecture search for transformers: A survey},
   author={Chitty-Venkata, Krishna Teja and Emani, Murali and Vishwanath, Venkatram and Somani, Arun K},
   journal={IEEE Access},
