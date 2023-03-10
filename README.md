@@ -79,6 +79,14 @@ Feel free to go through our previously published NAS survey papers:
 
 If you find our papers and the repository useful, please consider citing the following papers:
 ```
+@article{chitty2023neural,
+  title={Neural Architecture Search Benchmarks: Insights and Survey},
+  author={Chitty-Venkata, Krishna Teja and Emani, Murali and Vishwanath, Venkatram and Somani, Arun K},
+  journal={IEEE Access},
+  year={2023},
+  publisher={IEEE}
+}
+
 @article{chitty2022neural,
   title={Neural architecture search survey: A hardware perspective},
   author={Chitty-Venkata, Krishna Teja and Somani, Arun K},
