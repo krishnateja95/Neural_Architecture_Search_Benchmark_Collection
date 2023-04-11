@@ -83,6 +83,8 @@ If you find our papers and the repository useful, please consider citing the fol
   title={Neural Architecture Search Benchmarks: Insights and Survey},
   author={Chitty-Venkata, Krishna Teja and Emani, Murali and Vishwanath, Venkatram and Somani, Arun K},
   journal={IEEE Access},
+  volume={11},
+  pages={25217--25236},
   year={2023},
   publisher={IEEE}
 }
